@@ -1,0 +1,18 @@
+.paginationloc_container{
+    color: whitesmoke;
+    display:flex;
+    justify-content: center;
+  
+    margin: auto;
+}
+
+.p-container{
+    color:whitesmoke;
+    height:30px;
+}
+
+button {
+   background-image: url('https://img.freepik.com/vector-gratis/espacio-estrellas-universo-espacio-infinito-fondo_78474-99.jpg?size=626&ext=jpg');
+   color:whitesmoke;
+   height:30px;
+}

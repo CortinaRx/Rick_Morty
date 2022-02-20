@@ -1,0 +1,72 @@
+.galleryloc-container{
+    width: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    
+}
+
+/* @media (min-width: 992px){
+    .galleryloc-container{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content:center;
+    }
+}
+
+@media (min-width: 768px){
+    .galleryloc-container{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content:center;
+    }
+} */
+
+.rick{
+    color:white;
+    border: solid 2px rgb(22, 17, 17);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-image: url('https://cutewallpaper.org/24/rick-and-morty-portal-png/12-ian39s-tat-ideas-pokemon-drawings-pokemon-pokemon-pictures.png');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    margin: 10px;
+    background-color: rgba(128, 123, 123, 0.671);
+    color: #1fd0e7;
+    font-weight: bold;
+    padding: 10px;
+}
+
+/* @media (min-width: 992px){
+    .rick{
+        width: 20%;
+        background-color: red;
+        padding: 10px;
+    }
+
+
+
+}
+
+@media (min-width: 768px){
+    .rick{
+        width: 20%;
+        height:20vh;
+    }
+
+
+
+} */
+
+
+
+
+
+
+
+.rick-p{
+background-color: rgba(128, 123, 123, 0.671);
+}

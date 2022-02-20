@@ -1,0 +1,28 @@
+.location__container{
+    
+   margin:auto;
+   background: url('https://i.pinimg.com/564x/0d/c3/77/0dc3778f1f2c0e40f75095bf9acab305.jpg') no-repeat center center fixed;
+   background-size: contain;
+
+ 
+   }
+
+
+ 
+  
+  @media (min-width: 992px) {
+    .location__container {
+      background-image: url("https://p4.wallpaperbetter.com/wallpaper/497/451/606/tv-show-rick-and-morty-morty-smith-rick-sanchez-hd-wallpaper-preview.jpg");
+      background-size: cover;
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .location__container {
+      background-image: url("https://p4.wallpaperbetter.com/wallpaper/497/451/606/tv-show-rick-and-morty-morty-smith-rick-sanchez-hd-wallpaper-preview.jpg");
+      background-size: cover;
+    }
+  }
+  
